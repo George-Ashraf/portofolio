@@ -1,0 +1,49 @@
+body {
+    background-image: url(../img/bglogin.jpeg);
+}
+
+
+.head {
+    height: 50px;
+    margin: 10px auto;
+
+}
+
+.head h1 {
+    color: orange;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Courgette', cursive;
+}
+
+.form {
+    position: relative;
+    top: 130px;
+    height: auto;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.407);
+    box-shadow: orange 0px 0px 15px;
+    border-radius: 15px;
+    position: relative;
+    padding: 0px 25px 30px  25px;
+}
+
+.form form label {
+    font-weight: bold;
+    color: orange;
+}
+
+.form form a {
+    background-color: orange;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+
+}
+.form .register{
+    position: absolute;
+    right: 30px;
+    color: orange;
+}
